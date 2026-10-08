@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/mavridopoulou-mark.svg"
+ },
+ "source_md5": "dfb5985dc1f7e089cd546a2d9dcdd856",
+ "version": "25f70cf5",
+ "tile": "#183230",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "5b49fc6684a56c6efe14b06a7f337494"
+ ],
+ "made": "2026-10-08"
+}
